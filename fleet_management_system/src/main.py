@@ -5,7 +5,7 @@ from models.nav_graph import NavigationGraph
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
-    nav_graph = NavigationGraph("data/nav_graph_2.json")
+    nav_graph = NavigationGraph("data/nav_graph_1.json")
     gui = FleetGUI(nav_graph)
     gui.show()
     sys.exit(app.exec())
