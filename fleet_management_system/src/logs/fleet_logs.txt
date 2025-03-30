@@ -1,0 +1,5 @@
+INFO:root:Robot 0 spawned at node 0
+INFO:root:Robot 1 spawned at node 1
+INFO:root:Robot 2 spawned at node 2
+INFO:root:Robot 3 spawned at node 3
+INFO:root:Robot 4 spawned at node 4
